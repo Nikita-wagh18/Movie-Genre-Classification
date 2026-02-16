@@ -36,7 +36,7 @@ Model Evaluation using Accuracy & Classification Report
 
 Results
 
-Logistic Regression Accuracy: 0.9352577699898552ss%
+Logistic Regression Accuracy: 0.9352577699898552%
 
 🔮 Future Improvements
 
